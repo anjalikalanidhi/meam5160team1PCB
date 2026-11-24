@@ -1,0 +1,13 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\Users\ayanb\OneDrive\Documents\motor_driver_breakout\radar_amp\meam5160team1PCB\MEAM5160-F_Cu.gbr'.
+Plotted to 'C:\Users\ayanb\OneDrive\Documents\motor_driver_breakout\radar_amp\meam5160team1PCB\MEAM5160-B_Cu.gbr'.
+Plotted to 'C:\Users\ayanb\OneDrive\Documents\motor_driver_breakout\radar_amp\meam5160team1PCB\MEAM5160-F_Paste.gbr'.
+Plotted to 'C:\Users\ayanb\OneDrive\Documents\motor_driver_breakout\radar_amp\meam5160team1PCB\MEAM5160-B_Paste.gbr'.
+Plotted to 'C:\Users\ayanb\OneDrive\Documents\motor_driver_breakout\radar_amp\meam5160team1PCB\MEAM5160-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\ayanb\OneDrive\Documents\motor_driver_breakout\radar_amp\meam5160team1PCB\MEAM5160-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\ayanb\OneDrive\Documents\motor_driver_breakout\radar_amp\meam5160team1PCB\MEAM5160-F_Mask.gbr'.
+Plotted to 'C:\Users\ayanb\OneDrive\Documents\motor_driver_breakout\radar_amp\meam5160team1PCB\MEAM5160-B_Mask.gbr'.
+Plotted to 'C:\Users\ayanb\OneDrive\Documents\motor_driver_breakout\radar_amp\meam5160team1PCB\MEAM5160-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\ayanb\OneDrive\Documents\motor_driver_breakout\radar_amp\meam5160team1PCB\MEAM5160-job.gbrjob'.
+Info: Done.
